@@ -1,0 +1,38 @@
+# React
+
+# dependencies
+/divisiones-front/node_modules
+/divisiones-front/.pnp
+/divisiones-front.pnp.js
+
+# testing
+/divisiones-front/coverage
+
+# production
+/divisiones-front/build
+
+# misc
+/divisiones-front/.DS_Store
+/divisiones-front/.env.local
+/divisiones-front/.env.development.local
+/divisiones-front/.env.test.local
+/divisiones-front/.env.production.local
+
+/divisiones-front/npm-debug.log*
+/divisiones-front/yarn-debug.log*
+/divisiones-front/yarn-error.log*
+
+
+# Laravel
+/divisiones-back/node_modules
+/divisiones-back/public/hot
+/divisiones-back/public/storage
+/divisiones-back/storage/*.key
+/divisiones-back/vendor
+/divisiones-back/.env.backup
+/divisiones-back/.phpunit.result.cache
+/divisiones-back/Homestead.json
+/divisiones-back/Homestead.yaml
+/divisiones-back/npm-debug.log
+/divisiones-back/yarn-error.log
+/divisiones-back/.idea
